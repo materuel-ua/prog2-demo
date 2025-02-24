@@ -1,6 +1,5 @@
 from typing import List, Tuple, Optional
 
-
 class Estudiante:
     # Atributo de clase (contador de instancias)
     total_estudiantes = 0
